@@ -93,6 +93,15 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.wellsfargo.com/about/careers/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
 | Zero Day | Automotive Security | Regional Remote Central Europe | [Link!](https://zer0-day.de/project/linux-security-engineers/) | [Link!](https://zer0-day.de/project/) | Case by Case decision |
+| 1Password | Security | Remote-first | [Careers](https://1password.com/careers) | [Link!](https://jobs.ashbyhq.com/1password) |?|
+| Bitwarden | Security | Full remote | [Careers](https://bitwarden.com/careers/) | [Link!](https://bitwarden.com/careers/) |?|
+| Chainguard | Product and infrastructure security | Full remote | [Careers](https://www.chainguard.dev/careers) | [Link!](https://job-boards.greenhouse.io/chainguard) |?|
+| Huntress | Detection, SOC, and research | Full remote (US, UK, Ireland, Australia, Canada) | [Careers](https://www.huntress.com/company/careers) | [Link!](https://job-boards.greenhouse.io/huntress) |?|
+| Latacora | Security programs | Remote-first, mostly US | [Careers](https://www.latacora.com/careers/) | [Link!](https://www.latacora.com/careers/) |?|
+| NetSPI | Pentest and security | Hybrid or remote for most roles | [Careers](https://www.netspi.com/careers/) | [Link!](https://www.netspi.com/careers/) |?|
+| Socket | Supply-chain security | Remote, with core hours | [Careers](https://socket.dev/careers) | [Link!](https://jobs.ashbyhq.com/socket) |?|
+| Vanta | Security and GRC | Remote-first in the US; hybrid at international offices | [Careers](https://www.vanta.com/company/careers) | [Link!](https://jobs.ashbyhq.com/vanta) |?|
+| Wiz | Security | Fully remote, an office, or a mix | [Careers](https://www.wiz.io/careers) | [Link!](https://www.wiz.io/careers) |?|
 
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
