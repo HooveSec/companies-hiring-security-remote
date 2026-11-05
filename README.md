@@ -48,7 +48,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Figma | All| US/Canada remote | Hiring Manager | [Link!](https://www.figma.com/careers) |No|
 | Trellix | Security | See posting | [Careers](https://careers.trellix.com/) | [Link!](https://careers.trellix.com/) |?|
-| Firebolt | Some areas| Full remote / Remote EU | [Link!](https://www.firebolt.io/careers) | [Link!](https://www.firebolt.io/careers) |?|
+| Firebolt | Some areas| Open roles are hybrid in Munich | [Link!](https://www.firebolt.io/careers) | [Link!](https://www.firebolt.io/careers) |?|
 | Fox-IT part of NCC Group | Some areas| Full remote / Remote EU | [Link!](https://www.nccgroup.com/careers/) | [Link!](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/) | [Link!](https://about.gitlab.com/jobs/) |?|
 | Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://www.google.com/about/careers/applications/) |?|
