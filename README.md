@@ -62,7 +62,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Ledn | Some| Full remote | Job posting | [Link!](https://www.ledn.io/careers) |?|
 | ISRG / Let's Encrypt | All | All positions remote (US or Canada); none posted | [Careers](https://www.abetterinternet.org/careers/) | [Link!](https://www.abetterinternet.org/careers/) |?|
 | Leviathan Security Group | ?| Remote | [Link!](https://www.leviathansecurity.com/careers) | [Link!](https://www.leviathansecurity.com/careers) |?|
-| LinkedIn | All| Remote | [Link!](https://www.reuters.com/technology/linkedin-allow-most-employees-work-remotely-reversing-course-2021-07-29/) | [Link!](https://www.linkedin.com/job/home) |?|
+| LinkedIn | Security | Hybrid, or remote in the US for some roles | [Staff Information Security Engineer, Detection Engineering](https://jobs.smartrecruiters.com/LinkedIn3/744000146235269-staff-information-security-engineer-detection-engineering) | [Link!](https://careers.linkedin.com/) |?|
 | Kaspersky | ?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
 | Material Security | All | Full Remote | [Link!](https://material.security/careers#available) | [Link!](https://material.security/careers#available) | No |
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
