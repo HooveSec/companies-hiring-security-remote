@@ -87,7 +87,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Trail of Bits | Some areas| Full remote | At a job posting page | [Link!](https://trailofbits.com/careers) |?|
 | TwelveSec | All| Full remote | [Link!](https://twelvesec.com/careers/) | [Link!](https://apply.workable.com/twelvesec/) |?|
 | Twilio | Some roles| Full remote | [Link!](https://jobs.twilio.com/careers) | [Link!](https://jobs.twilio.com/careers) |?|
-| Unit42 Palo Alto | Research| Full remote | [Link!](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link!](https://jobs.paloaltonetworks.com/en/) |?|
+| Unit42 Palo Alto | Research| Some roles remote | [Principal Threat Researcher (Unit 42) - Remote](https://jobs.paloaltonetworks.com/en/job/reston/principal-threat-researcher-unit-42-remote/47263/102267157984) | [Link!](https://jobs.paloaltonetworks.com/en/search_jobs/unit%2042/47263/1) |?|
 | VMRay | Some roles | Some roles remote in Europe | [Jobs](https://vmray-gmbh.jobs.personio.de/?language=en) | [Link!](https://vmray-gmbh.jobs.personio.de/?language=en) |?|
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.wellsfargojobs.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/jobs/) | [Link!](https://wikimediafoundation.org/jobs/) |?|
