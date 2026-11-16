@@ -95,7 +95,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Arctic Wolf | Detection and incident response | Remote in the UK, the US, and Germany | [Careers](https://arcticwolf.com/company/careers/) | [Link!](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External) |?|
 | Endor Labs | AppSec and supply-chain security | Remote US | [Careers](https://www.endorlabs.com/careers) | [Link!](https://job-boards.greenhouse.io/endorlabs/jobs/4745281005) |?|
 | Expel | Detection and response | Remote | [Careers](https://expel.com/about/careers/) | [Link!](https://expel.com/about/careers/) |?|
-| GreyNoise | Threat research | Full remote within the US | [Careers](https://www.greynoise.io/careers) | [Link!](https://job-boards.greenhouse.io/greynoiseintelligence/jobs/4725936005) |?|
+| GreyNoise | Threat research | Full remote within the US | [Careers](https://www.greynoise.io/careers) | [Link!](https://www.greynoise.io/careers) |?|
 | HackerOne | Security engineering | Remote, within about 50 miles of listed hubs | [Careers](https://www.hackerone.com/careers) | [Link!](https://jobs.ashbyhq.com/hackerone) |?|
 | Tines | Security operations and GRC | Remote in Ireland and the United States | [Careers](https://www.tines.com/careers/) | [Link!](https://www.tines.com/careers/) |?|
 
