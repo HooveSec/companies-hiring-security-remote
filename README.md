@@ -89,7 +89,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Twilio | Some roles| Full remote | [Link!](https://jobs.twilio.com/careers) | [Link!](https://jobs.twilio.com/careers) |?|
 | Unit42 Palo Alto | Research| Some roles remote | [Principal Threat Researcher (Unit 42) - Remote](https://jobs.paloaltonetworks.com/en/job/reston/principal-threat-researcher-unit-42-remote/47263/102267157984) | [Link!](https://jobs.paloaltonetworks.com/en/search_jobs/unit%2042/47263/1) |?|
 | VMRay | Some roles | Some roles remote in Europe | [Jobs](https://vmray-gmbh.jobs.personio.de/?language=en) | [Link!](https://vmray-gmbh.jobs.personio.de/?language=en) |?|
-| Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.wellsfargojobs.com/) |?|
+| Wells Fargo | | Hybrid for many corporate roles; some banking roles onsite | [Flexibility](https://www.wellsfargojobs.com/en/well-life/flexibility/) | [Link!](https://www.wellsfargojobs.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/jobs/) | [Link!](https://wikimediafoundation.org/jobs/) |?|
 | Zero Day | Automotive Security | Germany, remote when the project allows | [Linux Security Engineer](https://www.zer0-day.de/project/linux-security-engineers/) | [Link!](https://www.zer0-day.de/projects/) | Case by Case decision |
 | Arctic Wolf | Detection and incident response | Remote in the UK, the US, and Germany | [Careers](https://arcticwolf.com/company/careers/) | [Link!](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External) |?|
