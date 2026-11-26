@@ -51,7 +51,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Firebolt | Some areas| Open roles are hybrid in Munich | [Link!](https://www.firebolt.io/careers) | [Link!](https://www.firebolt.io/careers) |?|
 | Fox-IT part of NCC Group | Some areas| Full remote / Remote EU | [Link!](https://www.nccgroup.com/careers/) | [Link!](https://nccgroup.pinpointhq.com/) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/) | [Link!](https://about.gitlab.com/jobs/) |?|
-| Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://www.google.com/about/careers/applications/) |?|
+| Google | Some| Hybrid (about three office days); some roles remote | [Hybrid work](https://blog.google/company-news/inside-google/life-at-google/hybrid-approach-work/) | [Link!](https://www.google.com/about/careers/applications/) |?|
 | Develocity | Some roles | Full remote | [Careers](https://develocity.ai/careers/) | [Link!](https://develocity.ai/careers/) |?|
 | Heroku | Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch | Some| Full remote | [Link!](https://www.hrw.org/careers) | [Link!](https://www.hrw.org/careers) |?|
