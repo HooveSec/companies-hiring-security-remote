@@ -21,7 +21,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Abnormal AI | Most jobs|Full remote okay | At job posting page | [Link!](https://abnormal.ai/careers/open-roles) |?|
 | LevelBlue | Security | Hybrid (remote except for in-person moments) | [Careers](https://www.levelblue.com/company/careers) | [Link!](https://www.levelblue.com/company/careers) |?|
 | BSI | Security | Flexible work arrangements | [Careers](https://www.bsigroup.com/en-US/about-bsi/careers/) | [Link!](https://www.bsigroup.com/en-US/about-bsi/careers/) |?|
-| Astronomer |  Most jobs|Full remote okay  | At a job posting page | [Link!](https://www.astronomer.io/careers/#openings) |?|
+| Astronomer | Some roles| Some in-office or hybrid; some roles remote | [Careers](https://www.astronomer.io/careers/) | [Link!](https://www.astronomer.io/careers/#openings) |?|
 | Aurora Innovation | Product Security | US Remote | Hiring Manager | [Link!](https://aurora.tech/careers/) | No |
 | Auth0 |All|Full remote okay  | Career Page | [Link!](https://www.okta.com/company/careers/) |?|
 | Bishop Fox | | Some areas | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.bishopfox.com/jobs/) |?|
